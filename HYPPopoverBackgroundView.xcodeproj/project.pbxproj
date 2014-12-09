@@ -11,6 +11,7 @@
 		BD8A03E11A36E56B0001636B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		BD8A03E31A36E56B0001636B /* HYPPopoverBackgroundView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HYPPopoverBackgroundView.h; sourceTree = "<group>"; };
 		BD8A03E41A36E56B0001636B /* HYPPopoverBackgroundView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HYPPopoverBackgroundView.m; sourceTree = "<group>"; };
+		BD8A03E51A36E9F10001636B /* HYPPopoverBackgroundView.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = HYPPopoverBackgroundView.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -19,6 +20,7 @@
 			children = (
 				BD8A03E01A36E56B0001636B /* LICENSE.md */,
 				BD8A03E11A36E56B0001636B /* README.md */,
+				BD8A03E51A36E9F10001636B /* HYPPopoverBackgroundView.podspec */,
 				BD8A03E21A36E56B0001636B /* Source */,
 			);
 			sourceTree = "<group>";
