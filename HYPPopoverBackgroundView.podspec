@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "HYPPopoverBackgroundView"
-  s.version = "1.0"
+  s.version = "0.1"
   s.summary = "Makes popover controllers pretty"
   s.description = <<-DESC
                    * Makes popover controllers pretty
