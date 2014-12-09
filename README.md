@@ -1,6 +1,6 @@
 #HYPPopoverBackgroundView
 
-Makes popover controllers pretty
+Makes popover controllers look so good you'll want to lick them
 
 ## Contributing
 
