@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
   s.name = "HYPPopoverBackgroundView"
   s.version = "0.1"
-  s.summary = "Makes popover controllers pretty"
+  s.summary = "Makes popover controllers look so good you'll want to lick them"
   s.description = <<-DESC
-                   * Makes popover controllers pretty
+                   * Makes popover controllers look so good you'll want to lick them
                    DESC
   s.homepage = "https://github.com/hyperoslo/HYPPopoverBackgroundView"
   s.license = {
